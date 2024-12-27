@@ -6,4 +6,10 @@
 
 </div>
 
-> [Visit the website here!](front-cartesian-plane.vercel.app)
+> [Visit the website here!](https://front-cartesian-plane.vercel.app/)
+
+<hr>
+
+<div align="center">
+    developed by <a href="https://github.com/felipe-sant?tab=followers">@felipe-sant</a>
+</div>
